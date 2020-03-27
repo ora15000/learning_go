@@ -1,8 +1,7 @@
-package  utils
+package utils 
 
 import "fmt"
 
-func printhell(
-
-    fmt.Println("hello from utils")
-)
+func Printhell() {
+     fmt.Println("hello from utils")
+}

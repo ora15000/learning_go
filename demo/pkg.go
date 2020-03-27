@@ -1,8 +1,7 @@
 package main
 import( 
-    "fmt"
-    "utils"
+    "github.com/ora15000/learning_go/demo/utils"
 )
 func main() {
-    fmt.Println("hello")
+    utils.Printhell()
 }
